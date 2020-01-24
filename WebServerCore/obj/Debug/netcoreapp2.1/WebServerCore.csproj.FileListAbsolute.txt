@@ -1,0 +1,10 @@
+C:\Users\michael\Desktop\Projekte\WebServerCore\obj\Debug\netcoreapp2.1\WebServerCore.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\Projekte\WebServerCore\obj\Debug\netcoreapp2.1\WebServerCore.AssemblyInfoInputs.cache
+C:\Users\michael\Desktop\Projekte\WebServerCore\obj\Debug\netcoreapp2.1\WebServerCore.AssemblyInfo.cs
+C:\Users\michael\Desktop\Projekte\WebServerCore\bin\Debug\netcoreapp2.1\WebServerCore.deps.json
+C:\Users\michael\Desktop\Projekte\WebServerCore\bin\Debug\netcoreapp2.1\WebServerCore.runtimeconfig.json
+C:\Users\michael\Desktop\Projekte\WebServerCore\bin\Debug\netcoreapp2.1\WebServerCore.runtimeconfig.dev.json
+C:\Users\michael\Desktop\Projekte\WebServerCore\bin\Debug\netcoreapp2.1\WebServerCore.dll
+C:\Users\michael\Desktop\Projekte\WebServerCore\bin\Debug\netcoreapp2.1\WebServerCore.pdb
+C:\Users\michael\Desktop\Projekte\WebServerCore\obj\Debug\netcoreapp2.1\WebServerCore.dll
+C:\Users\michael\Desktop\Projekte\WebServerCore\obj\Debug\netcoreapp2.1\WebServerCore.pdb

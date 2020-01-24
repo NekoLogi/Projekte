@@ -1,0 +1,13 @@
+C:\Users\michael\Desktop\Projekte\Würfel\bin\Debug\Würfel.exe.config
+C:\Users\michael\Desktop\Projekte\Würfel\bin\Debug\Würfel.exe
+C:\Users\michael\Desktop\Projekte\Würfel\bin\Debug\Würfel.pdb
+C:\Users\michael\Desktop\Projekte\Würfel\obj\Debug\Würfel.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\Projekte\Würfel\obj\Debug\Würfel.csproj.CoreCompileInputs.cache
+C:\Users\michael\Desktop\Projekte\Würfel\obj\Debug\Würfel.exe
+C:\Users\michael\Desktop\Projekte\Würfel\obj\Debug\Würfel.pdb
+C:\Users\neko\Desktop\Projekte\Würfel\bin\Debug\Würfel.exe.config
+C:\Users\neko\Desktop\Projekte\Würfel\bin\Debug\Würfel.exe
+C:\Users\neko\Desktop\Projekte\Würfel\bin\Debug\Würfel.pdb
+C:\Users\neko\Desktop\Projekte\Würfel\obj\Debug\Würfel.csprojAssemblyReference.cache
+C:\Users\neko\Desktop\Projekte\Würfel\obj\Debug\Würfel.exe
+C:\Users\neko\Desktop\Projekte\Würfel\obj\Debug\Würfel.pdb

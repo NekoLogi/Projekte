@@ -1,0 +1,14 @@
+C:\Users\michael\Desktop\Projekte\Test\bin\Release\Test.exe.config
+C:\Users\michael\Desktop\Projekte\Test\bin\Release\Test.exe
+C:\Users\michael\Desktop\Projekte\Test\bin\Release\Test.pdb
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\MainWindow.g.cs
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\App.g.cs
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test_MarkupCompile.cache
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test_MarkupCompile.lref
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\MainWindow.baml
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.g.resources
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.csproj.GenerateResource.cache
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.exe
+C:\Users\michael\Desktop\Projekte\Test\obj\Release\Test.pdb
