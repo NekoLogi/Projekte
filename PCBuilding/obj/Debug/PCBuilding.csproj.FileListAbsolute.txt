@@ -1,0 +1,14 @@
+C:\Users\neko\source\repos\PCBuilding\bin\Debug\PCBuilding.exe.config
+C:\Users\neko\source\repos\PCBuilding\bin\Debug\PCBuilding.exe
+C:\Users\neko\source\repos\PCBuilding\bin\Debug\PCBuilding.pdb
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.csprojAssemblyReference.cache
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\MainWindow.g.cs
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\App.g.cs
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding_MarkupCompile.cache
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding_MarkupCompile.lref
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\MainWindow.baml
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.g.resources
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.Properties.Resources.resources
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.csproj.GenerateResource.cache
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.exe
+C:\Users\neko\source\repos\PCBuilding\obj\Debug\PCBuilding.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="PCBuilding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PCBuilding"
+        mc:Ignorable="d"
+        Title="PC Builder" Height="870.221" Width="657.464" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Hardware" HorizontalAlignment="Left" Height="818" VerticalAlignment="Top" Width="274" Margin="3,8,0,0">
+            <GroupBox Header="CPU" HorizontalAlignment="Left" Height="119" Margin="-1,0" VerticalAlignment="Top" Width="264"/>
+
+        </GroupBox>
+        <Label Content="Brand:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,42,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,65,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Model:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,90,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,112,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <GroupBox Header="Mainboard" HorizontalAlignment="Left" Height="166" Margin="9,147,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Size:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,165,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,188,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Brand:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,213,0,0" Height="26" Width="78"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,235,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Model:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,258,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,280,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <GroupBox Header="Mainboard" HorizontalAlignment="Left" Height="166" Margin="9,316,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Brand:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,334,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,357,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Size:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,382,0,0" Height="26" Width="91"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,404,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Model:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,427,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,449,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <GroupBox Header="RAM" HorizontalAlignment="Left" Height="166" Margin="9,484,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Speed:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,503,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,525,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Memory Size:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,550,0,0" Height="26" Width="91"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,572,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Model:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,595,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,617,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <GroupBox Header="Grafikkarte" HorizontalAlignment="Left" Height="166" Margin="9,652,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Brand:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,671,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,693,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Model:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,718,0,0" Height="26" Width="91"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,740,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Label Content="Amount:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,763,0,0" Height="26" Width="72"/>
+        <ComboBox HorizontalAlignment="Left" Margin="15,785,0,0" VerticalAlignment="Top" Width="250" Height="22"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="350" Margin="282,40,0,0" Stroke="Black" VerticalAlignment="Top" Width="350"/>
+        <Image HorizontalAlignment="Left" Height="350" Margin="282,40,0,0" VerticalAlignment="Top" Width="350" OpacityMask="Black"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="521,764,0,0" VerticalAlignment="Top" Width="111" Height="31"/>
+        <GroupBox Header="Details" HorizontalAlignment="Left" Height="340" Margin="282,395,0,0" VerticalAlignment="Top" Width="350"/>
+
+
+    </Grid>
+</Window>
